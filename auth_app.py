@@ -297,7 +297,7 @@ def get_custom_css():
         }
         
         .logo-container img {
-            width: 120px;
+            width: 150px;
             height: auto;
             margin: 0 auto;
         }
